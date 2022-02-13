@@ -111,5 +111,5 @@ toc:
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/tangw/blog
+  repo: git@github.com:tangw/blog.git
   branch: gh-pages
