@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+db.json
+*.log
+.gitignore
+.github/
+node_modules/
+public/
+.deploy*/
+package-lock.json
+package.json
+scaffolds/
+themes/
