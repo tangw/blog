@@ -5,7 +5,7 @@
 # Link to a page that gives an overview of all your projects.
 # This can be an external link (e.g., to you GitHub profile) or to another
 # page within your website.
-projects_url: http://github.com/tangw
+projects_url: http://scratch.one
 
 # Set the page direction to RTL or LTR. default is LTR. (if you set it 'rtl', the 'vazir' font will be loaded.)
 direction: ltr
@@ -27,8 +27,7 @@ nav:
 # (see https://fontawesome.com/icons?d=gallery&s=brands);
 # only 'mail' is an exception.
 social_links:
-  github: http://github.com/tangw
-  twitter: http://twitter.com/tangw
+  twitter: http://twitter.com/sando_itchi
   mail: mailto:sandoitchsan@gmail.com
 
 # Customize the overview with displaying a tagcloud on the index page.
@@ -62,7 +61,7 @@ post:
 # Customize the copyright years
 # Note: if start_year/end_year not provided, will use current year.
 copyright:
-  start_year: 2021
+  start_year: 2022
   end_year:
 
 ##############################################################################
@@ -179,8 +178,8 @@ umami_analytics:
 # logo and/or favicons of you website.
 # To generate hash: `$ echo -n "name@email.com" | md5`.
 gravatar:
-  email: w.tang@qq.com
-  hash: 754002e850e1eebbd261bdec0aa06f3a
+  email: sandoitchsan@gmail.com
+  hash: 7a3d2ae6a977fccd2a69f0a1f3f92567
 
 # loads libraries and styles from CDN instead or relying on local files
 cdn:
