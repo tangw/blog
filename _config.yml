@@ -4,12 +4,12 @@
 
 # Site
 title: scratchpad
-subtitle: 'info of tangw'
+subtitle: 'brief notes on anything that are interesting'
 description: ''
 keywords:
-author: tangw
+author: Sando Itchi
 language: en
-timezone: ''
+timezone: 'America/Chicago'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
