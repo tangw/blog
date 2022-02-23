@@ -113,3 +113,8 @@ deploy:
   type: git
   repo: git@github.com:tangw/blog.git
   branch: gh-pages
+
+githubEmojis:
+  enable: true
+  className: github-emoji
+  inject: true
