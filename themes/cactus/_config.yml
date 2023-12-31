@@ -27,8 +27,12 @@ nav:
 # (see https://fontawesome.com/icons?d=gallery&s=brands);
 # only 'mail' is an exception.
 social_links:
-  twitter: http://twitter.com/sando_itchi
-  mail: mailto:sandoitchsan@gmail.com
+  -
+    icon: twitter
+    link: http://twitter.com/sando_itchi
+  -
+    icon: mail
+    link: mailto:sandoitchsan@gmail.com
 
 # Customize the overview with displaying a tagcloud on the index page.
 # Options: https://hexo.io/docs/helpers.html#tagcloud
@@ -61,9 +65,17 @@ post:
 # Customize the copyright years
 # Note: if start_year/end_year not provided, will use current year.
 copyright:
-  start_year: 2022
+  start_year: 2024
   end_year:
 
+# Customize the 404 page
+# Options:
+#   - enabled: whether to enable the 404 page (404.html).
+error_404:
+  enabled: true
+  title: "404 Page Not Found"
+  description: "The page you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+  
 ##############################################################################
 # Look and Feel
 ##############################################################################
@@ -82,7 +94,7 @@ logo:
   height: 50
   url: /images/logo.png
   gravatar: true
-  grayout: true
+  grayout: false
 
 # Customize the favicons.
 # Cactus supports a limited set of the three most important icons:
@@ -106,7 +118,7 @@ favicon:
 
 # The color scheme that should be used to highlight codeblocks.
 # See source/css/_highlight for a list of all available color schemes.
-highlight: xcode
+highlight: rainbow
 
 # Set the color scheme.
 # Available color schemes are 'dark', 'light', 'classic' and 'white'.
@@ -142,8 +154,8 @@ mathjax:
   
 # Fill in your Disqus Comments Shortname to enable Disqus comments.
 disqus:
-  enabled: false
-  shortname: cactus-1
+  enabled: true
+  shortname: scratchpad-one
 
 # Fill in your Utterances data to enable Utterances comments
 utterances:
