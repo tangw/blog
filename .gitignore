@@ -11,4 +11,3 @@ package-lock.json
 package.json
 scaffolds/
 themes/
-!themes/cactus/_config.yml
