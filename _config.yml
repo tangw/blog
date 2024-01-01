@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Scratchpad
-subtitle: 'brief notes on anything that are interesting'
+title: scratchpad
+subtitle: 'noun. - a pad of paper for random thoughts, informal notes, preliminary writings, etc.'
 description: ''
 keywords:
-author: Sandoitchi
+author: sandoitchi
 language: en
 timezone: 'America/Chicago'
 
@@ -100,7 +100,7 @@ plugins:
   - hexo-generator-cname
   - hexo-reference
 ## Themes: https://hexo.io/themes/
-theme: cactus
+theme: next
 
 toc:
   maxdepth: 3
