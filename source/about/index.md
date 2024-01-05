@@ -11,6 +11,6 @@ int main() {
 }
 ```
 :wave: Welcome!
-:eyes: Here are some notes taken from the past.
-:seedling: May they be useful to you.
+:eyes: Here are some notes I took.
+:seedling: May you have fun reading them.
 :revolving_hearts: Thanks.
