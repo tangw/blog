@@ -1,6 +1,7 @@
 ---
-title: about
-date: 2023-12-31 21:44:48
+title: About
+date: 2024-01-21
+comments: false
 ---
 
 ```c
@@ -10,7 +11,7 @@ int main() {
   return 0;
 }
 ```
-:wave: Welcome!
-:eyes: Here are some notes I took in the past.
-:seedling: May you have fun reading them.
-:revolving_hearts: Thanks.
+:wave: Salve!  
+:eyes: Hic potes nonnulla reperire notula de his quae mihi curae sunt.  
+:seedling: In legendo invenias gaudium.  
+:revolving_hearts: Gratias tibi ago pro visitatione tua.
